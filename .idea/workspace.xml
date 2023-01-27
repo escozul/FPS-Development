@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="58497a62-3ff2-4421-90af-12ee73265521" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_blender.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_bullet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_bullet_native.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_desktop.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_effects.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_jbullet.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_jogl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jmonkeyengine_jme3_lwjgl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl_opengl.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lwjgl_vulkan.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Minecraft Clone.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Game3Dv2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/TestJBullet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/TestLWJGL.java" afterDir="false" />
-    </list>
+    <list default="true" id="58497a62-3ff2-4421-90af-12ee73265521" name="Changes" comment="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,12 +76,47 @@
       <updated>1674682648219</updated>
       <workItem from="1674682649710" duration="29648000" />
       <workItem from="1674765651622" duration="1308000" />
-      <workItem from="1674807190850" duration="5416000" />
+      <workItem from="1674807190850" duration="5740000" />
     </task>
+    <task id="LOCAL-00001" summary="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand.">
+      <created>1674813509836</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1674813509836</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand." />
+    <option name="LAST_COMMIT_MESSAGE" value="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
