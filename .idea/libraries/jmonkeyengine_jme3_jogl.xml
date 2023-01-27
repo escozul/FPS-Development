@@ -1,0 +1,64 @@
+<component name="libraryTable">
+  <library name="jmonkeyengine.jme3.jogl" type="repository">
+    <properties maven-id="org.jmonkeyengine:jme3-jogl:3.3.2-stable" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jme3-jogl-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-core-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-desktop-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-main-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gluegen-rt-2.3.2-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-main-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jogl-all-2.3.2-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-main-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/joal-2.3.2-natives-windows-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-main-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-android-aarch64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-android-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-linux-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-linux-armv6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-linux-armv6hf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-linux-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-macosx-universal.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-solaris-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-solaris-i586.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-windows-amd64.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jocl-2.3.2-natives-windows-i586.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="jmonkeyengine.jme3.jbullet" type="repository">
+    <properties maven-id="org.jmonkeyengine:jme3-jbullet:3.4.1-stable" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jme3-jbullet-3.4.1-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jbullet-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/stack-alloc-1.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/asm-all-3.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-1.10.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/ant-launcher-1.10.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/vecmath-1.5.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-core-3.4.1-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-terrain-3.4.1-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

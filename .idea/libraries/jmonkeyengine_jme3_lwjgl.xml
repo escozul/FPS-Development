@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="jmonkeyengine.jme3.lwjgl" type="repository">
+    <properties maven-id="org.jmonkeyengine:jme3-lwjgl:3.3.2-stable" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jme3-lwjgl-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-core-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-desktop-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-2.9.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-platform-2.9.3-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-platform-2.9.3-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-platform-2.9.3-natives-osx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-2.0.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jutils-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-platform-2.0.5-natives-linux.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-platform-2.0.5-natives-windows.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jinput-platform-2.0.5-natives-osx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

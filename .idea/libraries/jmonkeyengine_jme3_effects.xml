@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jmonkeyengine.jme3.effects" type="repository">
+    <properties maven-id="org.jmonkeyengine:jme3-effects:3.3.2-stable" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jme3-effects-3.3.2-stable.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jme3-core-3.3.2-stable.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

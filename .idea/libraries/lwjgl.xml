@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lwjgl" type="repository">
+    <properties maven-id="org.lwjgl:lwjgl:3.1.2" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/lwjgl-3.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
