@@ -76,7 +76,7 @@
       <updated>1674682648219</updated>
       <workItem from="1674682649710" duration="29648000" />
       <workItem from="1674765651622" duration="1308000" />
-      <workItem from="1674807190850" duration="5740000" />
+      <workItem from="1674807190850" duration="6067000" />
     </task>
     <task id="LOCAL-00001" summary="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand.">
       <created>1674813509836</created>
@@ -85,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674813509836</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand.">
+      <created>1674813927065</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1674813927065</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
