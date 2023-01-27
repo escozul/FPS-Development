@@ -23,6 +23,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="5336c10a-55a9-449b-bdf0-9729ee48ad57" />
+        <option name="url" value="https://github.com/escozul/FPS-Development.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -76,7 +89,7 @@
       <updated>1674682648219</updated>
       <workItem from="1674682649710" duration="29648000" />
       <workItem from="1674765651622" duration="1308000" />
-      <workItem from="1674807190850" duration="6587000" />
+      <workItem from="1674807190850" duration="6691000" />
     </task>
     <task id="LOCAL-00001" summary="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand.">
       <created>1674813509836</created>
@@ -99,7 +112,14 @@
       <option name="project" value="LOCAL" />
       <updated>1674813973177</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;This project was created for educational purposes only while trying to learn how to create an FPS without the ready made tools that Unity, UE5 and CryEngine provide.&#10;Of course I use a Game library for Java but most things will be done by hand and code alone.">
+      <created>1674814498240</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1674814498240</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -133,7 +153,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand." />
-    <option name="LAST_COMMIT_MESSAGE" value="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;Of course I use a Game library for Java but most things will be done by hand." />
+    <MESSAGE value="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;This project was created for educational purposes only while trying to learn how to create an FPS without the ready made tools that Unity, UE5 and CryEngine provide.&#10;Of course I use a Game library for Java but most things will be done by hand and code alone." />
+    <option name="LAST_COMMIT_MESSAGE" value="Here starts the creation of a new FPS game without using a fancy Game engine.&#10;This project was created for educational purposes only while trying to learn how to create an FPS without the ready made tools that Unity, UE5 and CryEngine provide.&#10;Of course I use a Game library for Java but most things will be done by hand and code alone." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
